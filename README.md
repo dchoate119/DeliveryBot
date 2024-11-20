@@ -44,4 +44,4 @@ The lock box on the delivery vehicle is opened through facial recognition softwa
 *All other structural components were 3D print or laser-cut* 
 
 ## Video Demonstration
-![Demo of DeliveryBot](media/deliverydemo.gif)
+![Demo of DeliveryBot](Media/deliverydemo.gif)
