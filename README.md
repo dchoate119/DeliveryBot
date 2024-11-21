@@ -14,6 +14,11 @@ The lock box on the delivery vehicle is opened through facial recognition softwa
 
 ---
 
+## Video Demonstration
+![Alt Text](Media/delivery_demo.gif)
+
+---
+
 ## Run this code: 
 
 **Scripts:** 
@@ -43,5 +48,4 @@ The lock box on the delivery vehicle is opened through facial recognition softwa
 
 *All other structural components were 3D print or laser-cut* 
 
-## Video Demonstration
-![Alt Text](Media/delivery_demo.gif)
+
