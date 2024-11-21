@@ -14,7 +14,7 @@ The lock box on the delivery vehicle is opened through facial recognition softwa
 
 ---
 
-## Video Demonstration
+## Video Demo
 ![Alt Text](Media/delivery_demo.gif)
 
 ---
